@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+web/node_modules/
+web/dist/
+*.lmc
+*.out
+.vite/
+tsconfig.tsbuildinfo
